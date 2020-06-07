@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CardTest",
+    "type": "Card",
+    "props": {
+      "header": {
+        "title": "Test Card"
+      },
+      "content": {
+        "components": [
+          {
+            "id": "TypographyTest",
+            "type": "Typography",
+            "props": { "children": "Test" }
+          }
+        ]
+      }
+    }
+  }
+]
